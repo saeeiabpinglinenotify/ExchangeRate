@@ -1,5 +1,8 @@
-# ExchangeRate Ver 1.2 (Last Update 15-08-2017)
+# ExchangeRate Ver 1.3 (Last Update 16-08-2017)
 โปรแกรม ExchangeRate ทำขึ้นเพื่อเปรียบเทียบราคาการซื้อ-ขาย ของ 2 เว็ปไซต์ เพื่อทำให้การซื้อ-ขาย ได้กำไรมากที่สุด
+- รายการอัพเดท ExchangeRate Ver 1.3
+   - Support OMG
+   
 - รายการอัพเดท ExchangeRate Ver 1.2.1
    - เพิ่ม ExchangeRate_Auto.exe สำหรับคนที่ต้องการดูแบบ Auto Update
    
